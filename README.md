@@ -10,6 +10,6 @@
 - my_package3 : __init__.py 초기 파일 설정 없이, from 파일명 import 패키지명 하여 함수 사용
 
 
-main.py에서 실행 
+- main.py: 실행
 
-main.ipynb : 연습용 파일
+- main.ipynb : 연습용 파일
