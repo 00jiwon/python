@@ -12,4 +12,4 @@
 
 - main.py: 실행
 
-- main.ipynb : 연습용 파일
+- main.ipynb : 연습용
